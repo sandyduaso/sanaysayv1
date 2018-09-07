@@ -1,0 +1,8 @@
+C:\xampp\apache\conf\extra
+<VirtualHost *:80>
+ ServerName www.sanaysay.com
+ ServerAlias sanaysay.com
+ DocumentRoot c:/xampp/htdocs/sanaysayv1
+</VirtualHost>
+C:\Windows\System32\drivers\etc
+127.0.0.1       sanaysay.com
